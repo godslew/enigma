@@ -1,0 +1,8 @@
+{
+  "name": "enigma",
+  "version": "1.0.0",
+  "description": "godslew の汎用 Claude Code スキル集。コーディング原則・ワークフロー等を一括提供する。",
+  "author": {
+    "name": "godslew"
+  }
+}
