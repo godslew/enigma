@@ -1,0 +1,17 @@
+{
+  "name": "enigma",
+  "owner": {
+    "name": "godslew"
+  },
+  "metadata": {
+    "description": "godslew の汎用 Claude Code スキル集"
+  },
+  "plugins": [
+    {
+      "name": "enigma",
+      "version": "1.0.0",
+      "description": "コーディング原則など汎用スキル集",
+      "source": "./plugins/enigma"
+    }
+  ]
+}
