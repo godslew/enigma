@@ -1,6 +1,7 @@
 ---
 name: coding-principles
-description: コーディング全般の原則。可読性重視・型安全・構造化の基本方針。全言語共通。コードを書く前・レビュー時に参照。
+description: コーディング全般の原則。可読性重視・型安全・構造化の基本方針。全言語共通。コードを書く前・レビュー時に参照。Use when user says "コーディング原則", "coding principles", "/coding-principles".
+allowed-tools: Read,Glob,Grep
 ---
 
 # コーディング基本原則
